@@ -3,3 +3,4 @@ remoote da degisiklikler ekledik.....
 ramiz branchi task i tamamladi
 
 bazi oz. eklendi:ramiz
+diger developer oz ekledi.
