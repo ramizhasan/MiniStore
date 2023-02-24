@@ -1,1 +1,2 @@
 product islemler
+remoote da degisiklikler ekledik.
